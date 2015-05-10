@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\David\GoogleDrive\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="C:\Users\David\GoogleDrive\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-4e1c369929a9918eb3e74ac996b789db402cdb1e.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\SkyDrive\Android Studio Projects\DistoApp\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="C:\Users\David\SkyDrive\Android Studio Projects\DistoApp\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-c7a5ab9e321f1488f23ae3f8443c3116da99a164.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\GoogleDrive\AndroidStudioProjects\DistoApp\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="C:\Users\David\GoogleDrive\AndroidStudioProjects\DistoApp\Application\build\intermediates\pre-dexed\debug\classes-027db2afd0211da611b2d8682551c1d5247e0aec.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\GoogleDrive\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\David\GoogleDrive\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-44baca472d004b76d025f534b729ab509d291fed.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\SkyDrive\Android Studio Projects\DistoApp\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="C:\Users\David\SkyDrive\Android Studio Projects\DistoApp\Application\build\intermediates\pre-dexed\debug\classes-764eab6cd7a5cd4456296cd982594525b0679668.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\SkyDrive\Android Studio Projects\DistoApp\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\David\SkyDrive\Android Studio Projects\DistoApp\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-eaf8e60b7252b796c7545401995cc069a495274b.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\GoogleDrive\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\David\GoogleDrive\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-4ce781c864cfb5c3c6ce99e5fc23e57600685d9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\GoogleDrive\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Users\David\GoogleDrive\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-a37b0e85d23539cd7f5b4d70132bb76885f5ece4.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\GoogleDrive\AndroidStudioProjects\DistoApp\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Users\David\GoogleDrive\AndroidStudioProjects\DistoApp\Application\build\intermediates\pre-dexed\debug\classes-f694866854e445f0ae8575d8dc24d0527a395b4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\David\GoogleDrive\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-7d588519cda7cd9b6f9a522cea4c7d7b39d728a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\SkyDrive\Android Studio Projects\DistoApp\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Users\David\SkyDrive\Android Studio Projects\DistoApp\Application\build\intermediates\pre-dexed\debug\classes-eb935641f57be017392ad601a8b3f8c61018acab.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\GoogleDrive\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="C:\Users\David\GoogleDrive\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-e2ecd1f7a34b278a0cac9c65e3357158eb8cd020.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\GoogleDrive\AndroidStudioProjects\DistoApp\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\David\GoogleDrive\AndroidStudioProjects\DistoApp\Application\build\intermediates\pre-dexed\debug\classes-c30e65fbc87627843f86dc64327c929c3336128e.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\GoogleDrive\AndroidStudioProjects\DistoApp\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="C:\Users\David\GoogleDrive\AndroidStudioProjects\DistoApp\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-7d971c6dbc0f2ff960c6e541baf949c8b46b6e17.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\SkyDrive\Android Studio Projects\DistoApp\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\David\SkyDrive\Android Studio Projects\DistoApp\Application\build\intermediates\pre-dexed\debug\classes-763244a3e6c47a33dd9c694440f4ecdb27e7e8e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\David\GoogleDrive\AndroidStudioProjects\DistoApp\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\David\GoogleDrive\AndroidStudioProjects\DistoApp\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-49fa70d59f021c293a6f5d90c4080c776da6feb7.jar" />
+    </item>
+
+</items>
